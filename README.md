@@ -1,7 +1,3 @@
-## Crie um readme detalhado explicando cada bloco de código do programa abaixo. Adicione um cabeçalho, seções, crie blocos de código e mostre como a pessoa pode copiar o repositório no Github e executar a instalação dos pacotes utilizando venv:
-
-
-
 # **Projeto: Resumo Automático de Textos com IA**
 
 Este projeto utiliza **LangChain** e **Claude-3 Opus** (Anthropic) para gerar resumos automáticos de textos. O código recebe um texto longo, divide-o em partes menores e gera um resumo utilizando um modelo de inteligência artificial.
